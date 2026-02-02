@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-🎓 Étudiant en informatique – Développement logiciel & web | Recherche de stage  
-💻 Projets personnels et académiques en Python, SQL, C# et web.  
+🎓 Étudiant en informatique – Développement logiciel & web | À la recherche d’un stage  
 
-💬 Programmation, IA 🤖, nouvelles technologies, créativité 🎨, randonnée 🌿, art classique 🏛️  
-⚡ Fun fact : je crée souvent des projets à partir de mon propre apprentissage 🚀
+💻 Projets personnels et académiques, ainsi que de l’analyse de données.  
+🛠️ Python, SQL, C#, web  
+💬 Parlez-moi de programmation, d’IA 🤖, de créativité 🎨, de randonnée 🌿 et d’art classique 🏛️  
+⚡ Fun fact : je crée souvent des projets à partir de mon propre apprentissage 🚀  
 
 📫 Contact : ab.aliouat@gmail.com
+
+
 
 
