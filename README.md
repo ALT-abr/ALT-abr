@@ -1,4 +1,4 @@
-# Hi there 👋
+### Hi there 👋
 
 🎓 Étudiant en informatique – Développement logiciel & web | Recherche de stage  
 💻 Projets personnels et académiques en Python, SQL, C# et web.  
