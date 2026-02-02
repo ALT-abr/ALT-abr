@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-🎓 Computer Science Student – Software & Web Development | 📍 Strasbourg, France
+🎓 Étudiant en informatique – Développement logiciel & web | Recherche de stage  
+💻 Projets personnels et académiques en Python, SQL, C# et web.  
 
-💻 I build personal and academic projects using Python, SQL, C# and web technologies.    
-🚀 I enjoy working on practical projects that mix learning, structure, and productivity.
+💬 Programmation, IA 🤖, nouvelles technologies, créativité 🎨, randonnée 🌿, art classique 🏛️  
+⚡ Fun fact : je crée souvent des projets à partir de mon propre apprentissage 🚀
 
-🧠 Interests: programming, data, problem-solving, and continuous learning  
-⚡ Fun fact: I often build projects inspired by my own learning journey.
+📫 Contact : ab.aliouat@gmail.com
 
-📫 How to reach me: ab.aliouat@gmail.com
+
