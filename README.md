@@ -1,4 +1,4 @@
-## Hi there 👋 |  Étudiant en développement informatique - À la recherche d’un stage -
+### Hi there 👋 |  Étudiant en développement informatique - À la recherche d’un stage -
 
 - 💻 Projets personnels et académiques, ainsi que de l’analyse de données
 - 🛠️ Python, SQL, C#, web
